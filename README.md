@@ -2,6 +2,19 @@
 
 ## Find my project report [here](https://github.com/Mihir-D/RoboND-DeepRL-Project/edit/master/deep_rl_arm_manipulation.pdf).
 
+## Abstract:
+
+The deep RL project consists of training a 3 degree of freedom arm to learn to touch the object. The
+project uses OpenAI Gym environment and a deep Q learning network. The arm is simulated in
+Gazebo. The agent interacts with the environment using a plugin for gazebo named Armplugin.cpp.
+Two main learning task are covered in this project. First task is to train the agent to touch any part
+of the arm to the object with at least 90% accuracy for a minimum of hundred runs. The second task
+is to train the agent to touch the gripper base to the object with at least 80% accuracy for minimum
+of hundred runs. The parameters and reward functions that were used are discussed. In the end, the
+possible future improvements are discussed.a
+
+
+
 This project is based on the Nvidia open source project "jetson-reinforcement" developed by [Dustin Franklin](https://github.com/dusty-nv). The goal of the project is to create a DQN agent and define reward functions to teach a robotic arm to carry out two primary objectives:
 
 1. Have any part of the robot arm touch the object of interest, with at least a 90% accuracy.
