@@ -13,7 +13,7 @@ is to train the agent to touch the gripper base to the object with at least 80% 
 of hundred runs. The parameters and reward functions that were used are discussed. In the end, the
 possible future improvements are discussed.a
 
-
+---
 
 This project is based on the Nvidia open source project "jetson-reinforcement" developed by [Dustin Franklin](https://github.com/dusty-nv). The goal of the project is to create a DQN agent and define reward functions to teach a robotic arm to carry out two primary objectives:
 
