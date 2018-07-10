@@ -11,7 +11,7 @@ Two main learning task are covered in this project. First task is to train the a
 of the arm to the object with at least 90% accuracy for a minimum of hundred runs. The second task
 is to train the agent to touch the gripper base to the object with at least 80% accuracy for minimum
 of hundred runs. The parameters and reward functions that were used are discussed. In the end, the
-possible future improvements are discussed.a
+possible future improvements are discussed.
 
 ---
 
